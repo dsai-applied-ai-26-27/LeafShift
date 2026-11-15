@@ -1,0 +1,14 @@
+# Local datasets
+data/raw/plantvillage/*
+data/raw/plantdoc/*
+data/raw/leaf_grouping/*
+
+# Python / notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+*.bak

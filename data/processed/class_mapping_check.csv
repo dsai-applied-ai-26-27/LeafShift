@@ -1,0 +1,10 @@
+canonical_class,plantvillage_expected_aliases,plantvillage_actual_folder,plantvillage_match,plantdoc_expected_aliases,plantdoc_actual_folder,plantdoc_match
+Potato - early blight,Potato___Early_blight,Potato___Early_blight,True,Potato leaf early blight,Potato_leaf_early_blight,True
+Potato - late blight,Potato___Late_blight,Potato___Late_blight,True,Potato leaf late blight,Potato_leaf_late_blight,True
+Tomato - bacterial spot,Tomato___Bacterial_spot,Tomato_Bacterial_spot,True,Tomato leaf bacterial spot | Tomato bacterial spot leaf,Tomato_leaf_bacterial_spot,True
+Tomato - early blight,Tomato___Early_blight,Tomato_Early_blight,True,Tomato Early blight leaf | Tomato early blight leaf,Tomato_Early_blight_leaf,True
+Tomato - late blight,Tomato___Late_blight,Tomato_Late_blight,True,Tomato leaf late blight | Tomato late blight leaf,Tomato_leaf_late_blight,True
+Tomato - leaf mold,Tomato___Leaf_Mold,Tomato_Leaf_Mold,True,Tomato mold leaf | Tomato leaf mold,Tomato_mold_leaf,True
+Tomato - septoria leaf spot,Tomato___Septoria_leaf_spot,Tomato_Septoria_leaf_spot,True,Tomato Septoria leaf spot | Tomato leaf septoria spot,Tomato_Septoria_leaf_spot,True
+Tomato - spider mites,Tomato___Spider_mites Two-spotted_spider_mite,Tomato_Spider_mites_Two_spotted_spider_mite,True,Tomato two spotted spider mites leaf | Tomato spider mites leaf,Tomato_two_spotted_spider_mites_leaf,True
+Tomato - healthy,Tomato___healthy,Tomato_healthy,True,Tomato leaf | Tomato healthy | Tomato healthy leaf,Tomato_leaf,True

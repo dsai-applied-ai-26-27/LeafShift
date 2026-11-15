@@ -1,0 +1,10 @@
+canonical_class,plantvillage_folder,plantvillage_before_cleaning,plantvillage_after_recorded_exclusions,plantdoc_folder,plantdoc_before_review,plantdoc_reviewed_keep,plantdoc_mapping_found,plantvillage_mapping_found
+Potato - early blight,Potato___Early_blight,1000,1000,Potato_leaf_early_blight,171,171,True,True
+Potato - late blight,Potato___Late_blight,1000,1000,Potato_leaf_late_blight,208,208,True,True
+Tomato - bacterial spot,Tomato_Bacterial_spot,2127,2127,Tomato_leaf_bacterial_spot,110,107,True,True
+Tomato - early blight,Tomato_Early_blight,1000,1000,Tomato_Early_blight_leaf,88,88,True,True
+Tomato - late blight,Tomato_Late_blight,1909,1901,Tomato_leaf_late_blight,111,111,True,True
+Tomato - leaf mold,Tomato_Leaf_Mold,952,952,Tomato_mold_leaf,91,90,True,True
+Tomato - septoria leaf spot,Tomato_Septoria_leaf_spot,1771,1771,Tomato_Septoria_leaf_spot,157,157,True,True
+Tomato - spider mites,Tomato_Spider_mites_Two_spotted_spider_mite,1676,1676,Tomato_two_spotted_spider_mites_leaf,2,2,True,True
+Tomato - healthy,Tomato_healthy,1591,1585,Tomato_leaf,52,52,True,True
