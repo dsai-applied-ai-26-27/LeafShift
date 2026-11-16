@@ -1,2 +1,17 @@
-main source:: https://www.kaggle.com/datasets/emmarex/plantdisease
-holdout test: https://github.com/pratikkayal/PlantDoc-Dataset
+Data sources (images are not stored in this repository)
+
+Primary dataset - training and in-domain test: PlantVillage, original release
+https://github.com/spMohanty/PlantVillage-Dataset (audited at commit 7f7ecc7e1eaca78107e3affe7cb5abd9427e139a)
+Folders used: raw/color (main), raw/segmented (planned background comparison)
+License: CC BY-SA 3.0 (stated in README_HF.md of that repository)
+Leaf IDs for grouped splitting: https://github.com/salathegroup/plantvillage_deeplearning_paper_dataset (leaf_grouping/filtered_leafmaps, commit 97664b03183427f3190489764e5f1c2929cd25ac)
+
+External test set: PlantDoc
+https://github.com/pratikkayal/PlantDoc-Dataset (audited at commit 5467f6012d78d1c446145d5f582da6096f852ae8)
+License: CC BY 4.0 (LICENSE.txt of that repository)
+
+Backup dataset: Tomato leaf diseases, Mendeley Data, version 1
+https://data.mendeley.com/datasets/93h9p62kg4/1
+License: CC BY 4.0
+
+Not used: the Kaggle copies emmarex/plantdisease (license "Unknown") and nirmalsankalana/plantdoc-dataset.

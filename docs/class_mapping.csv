@@ -1,0 +1,11 @@
+shared_class,plantvillage_folder,plantdoc_folder,plantvillage_before,plantvillage_removed,plantvillage_after,plantdoc_before,plantdoc_removed,plantdoc_after,plantvillage_without_leaf_id,plantvillage_split_groups
+Tomato healthy,Tomato___healthy,Tomato leaf,1591,6,1585,63,0,63,2,611
+Tomato bacterial spot,Tomato___Bacterial_spot,Tomato leaf bacterial spot,2127,0,2127,110,5,105,0,532
+Tomato early blight,Tomato___Early_blight,Tomato Early blight leaf,1000,0,1000,88,12,76,0,250
+Tomato late blight,Tomato___Late_blight,Tomato leaf late blight,1909,8,1901,111,11,100,541,294
+Tomato leaf mold,Tomato___Leaf_Mold,Tomato mold leaf,952,0,952,91,1,90,0,238
+Tomato Septoria leaf spot,Tomato___Septoria_leaf_spot,Tomato Septoria leaf spot,1771,0,1771,151,12,139,771,252
+Tomato mosaic virus,Tomato___Tomato_mosaic_virus,Tomato leaf mosaic virus,373,0,373,54,1,53,373,1
+Tomato yellow leaf curl virus,Tomato___Tomato_Yellow_Leaf_Curl_Virus,Tomato leaf yellow virus,5357,0,5357,76,4,72,2619,686
+Potato early blight,Potato___Early_blight,Potato leaf early blight,1000,0,1000,117,15,102,0,250
+Potato late blight,Potato___Late_blight,Potato leaf late blight,1000,0,1000,105,12,93,0,250

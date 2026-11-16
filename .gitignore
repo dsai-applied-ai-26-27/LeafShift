@@ -12,3 +12,12 @@ venv/
 .env
 .DS_Store
 *.bak
+
+# Local dataset folders (original sources)
+/data/PlantVillage-Dataset/
+/data/PlantDoc-Dataset/
+/data/PlantDoc-Dataset-clone/
+/data/plantdoc-source.zip
+/data/Tomato-leaf-diseases/
+/data/leafmaps/
+/pv_nearpairs.txt
